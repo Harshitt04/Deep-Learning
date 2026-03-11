@@ -139,24 +139,37 @@ Common Python libraries used in deep learning:
 | Keras         | High-level neural network API    |
 | Scikit-learn  | Data preprocessing and utilities |
 
-Installation
+Installation-
+
+
 pip install numpy pandas matplotlib tensorflow scikit-learn
-🧪 Implementation Steps
+
+
+🧪 Implementation Steps-
+
 1️⃣ Import Libraries
 import tensorflow as tf
 import numpy as np
 import matplotlib.pyplot as plt
+
+
 2️⃣ Load Dataset
 (X_train, y_train), (X_test, y_test) = tf.keras.datasets.mnist.load_data()
+
+
 3️⃣ Normalize Data
 X_train = X_train / 255.0
 X_test = X_test / 255.0
+
+
 4️⃣ Build Model
 model = tf.keras.Sequential([
     tf.keras.layers.Flatten(input_shape=(28,28)),
     tf.keras.layers.Dense(128, activation='relu'),
     tf.keras.layers.Dense(10, activation='softmax')
 ])
+
+
 5️⃣ Train Model
 model.compile(optimizer='adam',
 loss='sparse_categorical_crossentropy',

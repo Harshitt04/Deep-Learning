@@ -19,27 +19,27 @@ A beginner-friendly explanation and implementation of Deep Learning concepts, in
 
 6.Libraries Required
 
-Implementation Steps
+7.Implementation Steps
 
-Applications
+8.Applications
 
-Project Structure
+9.Project Structure
 
-Future Improvements
+10.Future Improvements
 
 🚀 Introduction
 
 Deep Learning is a branch of Artificial Intelligence (AI) and Machine Learning (ML) that focuses on using neural networks with multiple layers to learn complex patterns from large datasets.
 
-It enables machines to perform tasks such as:
+1.It enables machines to perform tasks such as:
 
-Image recognition
+2.Image recognition
 
-Speech recognition
+3.Speech recognition
 
-Natural language processing
+4.Natural language processing
 
-Autonomous driving
+5.Autonomous driving
 
 📘 Definition
 
@@ -49,27 +49,27 @@ Unlike traditional algorithms, deep learning models improve their performance by
 
 🎯 Purpose of Deep Learning
 
-Deep learning helps solve problems where traditional programming fails.
+1.Deep learning helps solve problems where traditional programming fails.
 
-Main purposes include:
+2.Main purposes include:
 
-Pattern recognition
+3.Pattern recognitio4.n
 
-Automated decision making
+4.Automated decision making
 
-Feature extraction from raw data
+5.Feature extraction from raw data
 
-Predictive analysis
+6.Predictive analysis
 
 Examples:
 
-Face unlock in smartphones
+1.Face unlock in smartphones
 
-Voice assistants
+2.Voice assistants
 
-Chatbots
+3.Chatbots
 
-Medical image diagnosis
+4.Medical image diagnosis
 
 🧩 Deep Learning Architecture
 Neural Network Structure

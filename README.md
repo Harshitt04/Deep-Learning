@@ -7,17 +7,17 @@ A beginner-friendly explanation and implementation of Deep Learning concepts, in
 
 📑 Table of Contents
 
-Introduction
+1.Introduction
 
-Definition
+2.Definition
 
-Purpose of Deep Learning
+3.Purpose of Deep Learning
 
-Deep Learning Architecture
+4.Deep Learning Architecture
 
-Workflow of Deep Learning
+5.Workflow of Deep Learning
 
-Libraries Required
+6.Libraries Required
 
 Implementation Steps
 

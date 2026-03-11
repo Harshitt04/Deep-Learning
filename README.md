@@ -74,6 +74,9 @@ Examples:
 🧩 Deep Learning Architecture
 Neural Network Structure
 
+<img width="2034" height="129" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/a21d66ed-a50a-494f-8bf7-2b22117c8128" />
+
+
 Explanation:
 
 Input Layer → Receives raw data
@@ -84,9 +87,15 @@ Output Layer → Produces prediction
 
 ⚙️ Deep Learning Workflow
 
+<img width="447" height="1310" alt="mermaid-diagram (1)" src="https://github.com/user-attachments/assets/06fe99fb-5769-484b-8ac6-49a53ebae4e1" />
+
+
 This pipeline shows how a typical deep learning project works.
 
 🔄 Neural Network Training Process
+
+<img width="2527" height="199" alt="mermaid-diagram (2)" src="https://github.com/user-attachments/assets/7dc947ed-8cc7-47eb-86ff-0380ae558aa0" />
+
 
 Explanation:
 
@@ -102,6 +111,9 @@ Model improves
 
 🧠 CNN Example (for Image Recognition)
 
+<img width="2158" height="129" alt="mermaid-diagram (3)" src="https://github.com/user-attachments/assets/d1268daf-147a-4e8f-9cab-211bfab9e227" />
+
+
 CNNs are widely used in:
 
 Image classification
@@ -114,13 +126,19 @@ Face recognition
 
 Common Python libraries used in deep learning:
 
-Library	Purpose
-NumPy	Numerical operations
-Pandas	Data handling
-Matplotlib	Data visualization
-TensorFlow	Deep learning framework
-Keras	High-level neural network API
-Scikit-learn	Data preprocessing
+## 📚 Libraries Required
+
+Common Python libraries used in deep learning:
+
+| Library       | Purpose                          |
+|---------------|----------------------------------|
+| NumPy         | Numerical operations             |
+| Pandas        | Data handling and analysis       |
+| Matplotlib    | Data visualization               |
+| TensorFlow    | Deep learning framework          |
+| Keras         | High-level neural network API    |
+| Scikit-learn  | Data preprocessing and utilities |
+
 Installation
 pip install numpy pandas matplotlib tensorflow scikit-learn
 🧪 Implementation Steps

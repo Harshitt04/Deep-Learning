@@ -453,12 +453,5 @@ Contributions, issues, and feature requests are welcome!
 
 ---
 
-<div align="center">
-
-
-
-<img src="https://neuratek.io/wp-content/uploads/2025/01/Neural-Computing-Brain-Inspired-Intelligence.webp" width="55%" alt="Deep Learning Footer"/>
-
-**Built with ❤️ for the AI & Deep Learning Community**
 
 </div>

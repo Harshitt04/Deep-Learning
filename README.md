@@ -218,18 +218,3 @@ Train models on custom datasets
 
 Deploy model using Flask / FastAPI
 
-⭐ If you like this project
-
-Give the repository a star ⭐ on GitHub and share it with others learning AI.
-
-Extra Tip (Very Important)
-
-To make your GitHub repo look even more professional, also add:
-
-Project banner image
-
-GIF showing training results
-
-Model accuracy graph
-
-If you want, I can also show you 3 things that make a GitHub AI project look like a PROFESSIONAL research repo, like the ones recruiters love (with cool banners, animated graphs, and dataset visuals).
